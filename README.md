@@ -17,7 +17,7 @@ apktool.decompile("test.apk", "test").then(dir => {
 ```js
 const apktool = require("node-apktool");
 
-apktool.build("test.apk", "test").then(dir => {
+apktool.build("test", "test.apk").then(dir => {
     console.log("APK has been successfully built.");
 }).catch(err => {
     console.error("An error occured while building APK.");
