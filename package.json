@@ -16,6 +16,9 @@
   ],
   "author": "Seyz",
   "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
   "bugs": {
     "url": "https://github.com/SxClient/node-apktool/issues"
   },
