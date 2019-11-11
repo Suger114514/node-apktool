@@ -1,0 +1,23 @@
+{
+  "name": "node-apktool",
+  "version": "1.0.0",
+  "description": "A NodeJS wrapper for ApkTool.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SxClient/node-apktool.git"
+  },
+  "keywords": [
+    "nodejs",
+    "apktool"
+  ],
+  "author": "Seyz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SxClient/node-apktool/issues"
+  },
+  "homepage": "https://github.com/SxClient/node-apktool#readme"
+}
